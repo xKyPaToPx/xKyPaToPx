@@ -2,7 +2,7 @@
 
         
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"/>
+  <img src="https://tenor.com/view/net-web-live-tv-tele-gif-20708448"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
