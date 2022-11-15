@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- <p>- 🌱 I’m currently learning at Brest State Technical University</p>
+ <p>- 🌱 I’m currently learning at Brest State Technical University in the specialty of Software engineering on 2 course</p>
+ <P>- 💻 I am programming in C# 10. I have experience using Entity Framework</p>
 - 😄 Pronouns: He/His
     
 
