@@ -8,9 +8,7 @@
   <a href="https://t.me/XKyPaToPx">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
  <p>- 🌱 I’m currently learning at Brest State Technical University in the specialty of Software engineering on 2 course</p>
  <P>- 💻 I am programming in C# 10. I have experience using Entity Framework</p>
