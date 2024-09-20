@@ -10,7 +10,7 @@
   </a>
 </div>
  <p>- 🌱 I’m currently learning at Brest State Technical University in the specialty of Software engineering on 4 course</p>
- <P>- 💻 I am programming in C# 12. I have experience using Entity Framework</p>
+ <p>- 💻 I am programming in C# 12. I have experience using Entity Framework</p>
 - 😄 Pronouns: He/His
     
 
